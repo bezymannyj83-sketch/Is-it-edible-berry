@@ -106,7 +106,17 @@ Adam.
 
 Графики:
 <img width="855" height="470" alt="plot1FINAL" src="https://github.com/user-attachments/assets/d9c4f03f-2025-4f5b-b7fa-86473778b2b7" />
+
+
 <img width="855" height="470" alt="plot2FINAL" src="https://github.com/user-attachments/assets/2b8e8bd9-1e76-46f8-86d1-83475e538c96" />
+
+['blackberry', 'blueberry', 'cranberry', 'raspberry', 'strawberry']
+5
+dict_keys(['accuracy', 'loss', 'val_accuracy', 'val_loss'])
+1.0
+0.8500000238418579
+0.08001993596553802
+0.3248589038848877
 
 После 10 эпох обучения модель достигла точности 100% на обучающей выборке и 85% на валидационной выборке
 
